@@ -1,0 +1,21 @@
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 25px;
+  padding-right: 25px;
+  height: 35px;
+  margin-bottom: 8px;
+  padding-bottom: 13px;
+  padding-top: 13px;
+}
+
+.list-name {
+  font-size: 16px;
+  font-family: 'Roboto';
+}
+
+.list-img {
+  height: 20px;
+  cursor: pointer;
+}
